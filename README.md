@@ -1,11 +1,14 @@
 # STAT 618 Project
 ## Implementing Vecchia-Approximated Deep Gaussian Processes
 
-Implements a Vecchia approximated deep Gaussian process (DGP; Sauer, 2022). The
-DGP was first proposed by Damianou and Lawrence (2013; AISTATS). Vecchia
-approximations originated as a composite likelihood technique (Vecchia, 1988),
-and recent work has developed rich theory around using the technique for modeling
-in computer experiments and spatial statistics (Katzfuss and Guinness, 2021).
+## Description
+
+The code in this repo implements a Vecchia approximated deep Gaussian process
+(DGP; Sauer, 2022). The DGP was first proposed by Damianou and Lawrence
+(2013; AISTATS). Vecchia approximations originated as a composite likelihood
+technique (Vecchia, 1988), and recent work has developed rich theory around using
+the technique for modeling in computer experiments and spatial statistics
+(Katzfuss and Guinness, 2021).
 
 I give a `pytorch`-based implementation of the model. An `R` package by Annie
 Sauer is available on [CRAN](https://cran.r-project.org/web/packages/deepgp/vignettes/deepgp.html).
