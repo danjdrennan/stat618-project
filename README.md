@@ -10,9 +10,12 @@ in computer experiments and spatial statistics (Katzfuss and Guinness, 2021).
 I give a `pytorch`-based implementation of the model. An `R` package by Annie
 Sauer is available on [CRAN](https://cran.r-project.org/web/packages/deepgp/vignettes/deepgp.html).
 
-**References**
+## References
 
 [1] [Saur et al. (2022, JCGS)](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2129662)
+
 [2] [Damianou and Lawrence (2013, AISTATS)](http://proceedings.mlr.press/v31/damianou13a.html)
+
 [3] [Vecchia (1988, JRSSB)](10.1111/j.2517-6161.1988.tb01729.x)
+
 [4] [Katzfuss and Guinness (2021, Statistical Science)](https://projecteuclid.org/journals/statistical-science/volume-36/issue-1/A-General-Framework-for-Vecchia-Approximations-of-Gaussian-Processes/10.1214/19-STS755.full)
