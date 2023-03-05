@@ -1,0 +1,19 @@
+# IDE junk
+.vscode
+
+# data files
+*.ai
+*.csv
+*.dat
+*.nc
+
+# image formats
+*.jpg
+*.jpeg
+*.pdf
+*.png
+*.svg
+*.tif
+
+# specific files
+proposal.md
